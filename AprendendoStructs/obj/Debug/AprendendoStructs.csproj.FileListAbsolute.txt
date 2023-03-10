@@ -1,0 +1,8 @@
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe.config
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.pdb
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.AssemblyReference.cache
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.SuggestedBindingRedirects.cache
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.CoreCompileInputs.cache
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.exe
+C:\Users\41557\Desktop\C#\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.pdb
